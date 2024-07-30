@@ -36,6 +36,10 @@ import com.google.android.material.tabs.TabLayoutMediator
 import com.squareup.picasso.Picasso
 import org.json.JSONObject
 
+/**
+     * API details [here](https://www.weatherapi.com/docs/)
+     */
+
 const val API_KEY = "dccfc97424754ef3a65160004242405"
 
 class MainFragment : Fragment() {
